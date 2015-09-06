@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RunAsService</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="local_service_started">location service started</string>
+    <string name="local_service_stopped">local service stopped</string>
+    <string name="local_service_label">location service</string>
+    <string name="local_service_disconnected">local_service_disconnected</string>
+    <string name="provider_settings_message">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="provider_settings_yes">Yes</string>
+    <string name="provider_settings_no">No</string>
+</resources>
